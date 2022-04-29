@@ -1,0 +1,13 @@
+{
+    "gpio_pin": 7,
+    "gpio_pin2": 21,
+    "turn_id": 4,
+    "serverIP": "192.168.10.1",
+    "port": 80,
+    "mqttclient": "gate005",
+    "mqttuser": "azam",
+    "mqttpwd": "1qaz@WSX",
+    "mqttport": 8883,
+    "sw1": "2",
+    "sw2": "1"
+}
